@@ -1,6 +1,6 @@
 {
   "variables": {
-    "netinstall_iso_url": "isos/CentOS-6.9-x86_64-minimal.iso",
+    "netinstall_iso_url": "isos/CentOS-5.11-x86_64-netinstall.iso",
     "guest_additions_mode": "upload",
     "disk_size": "40960"
   },
